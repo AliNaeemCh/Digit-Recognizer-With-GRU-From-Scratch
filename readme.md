@@ -42,9 +42,9 @@ These parameters were chosen to balance model complexity and performance, ensuri
 
 ![Model Architecture](https://firebasestorage.googleapis.com/v0/b/common-e8332.appspot.com/o/cce_gru.png?alt=media&token=6b4a516a-ec56-4bd6-aeba-257219883494)
 
-![Model Architecture](https://firebasestorage.googleapis.com/v0/b/common-e8332.appspot.com/o/accuracy_train.png?alt=media&token=e52452d5-ba08-465b-8055-cb99bea8241c)
+![Model Architecture](https://firebasestorage.googleapis.com/v0/b/common-e8332.appspot.com/o/accuracy_train.png?alt=media&token=dae4ecd0-ad34-4b9e-a23c-db7a786806bd)
 
-![Model Architecture](https://firebasestorage.googleapis.com/v0/b/common-e8332.appspot.com/o/accuracy_gru_test.png?alt=media&token=4ee36e59-7ff4-4ddb-b75f-6efeaf2dd656)
+![Model Architecture](https://firebasestorage.googleapis.com/v0/b/common-e8332.appspot.com/o/accuracy_gru_test.png?alt=media&token=c2cb1a5d-6b12-4f6d-b816-c3ababb6a7be)
 
 The model demonstrated impressive results, showcasing its effectiveness in recognizing digits:
 
